@@ -10,6 +10,8 @@ Rather than individually going through each article, this system parses through 
 
 Motivation:
 
+Level Of Accuracy :  84.36%
+
 Example of this system:
 
 
