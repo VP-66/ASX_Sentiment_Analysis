@@ -30,5 +30,5 @@ Libraries
 - MatPlot -> Used to produce visualisations of the results
 - nltk -> Used to implement the Sentiment Analyzer
 
-##Source used to collect stock data: https://finviz.com/
+## Source used to collect stock data: https://finviz.com/
 
