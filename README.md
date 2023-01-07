@@ -13,6 +13,7 @@ Motivation:
 Level Of Accuracy :  84.36%
 
 Example of this system:
+![Sentiment_Analysis](https://user-images.githubusercontent.com/99856161/211142099-22613b3f-62d5-4b8b-863d-b45a7f3f2a91.png)
 
 
 
